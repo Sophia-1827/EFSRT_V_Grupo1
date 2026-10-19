@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7NOjXDfOLu0=",
+  "success": true,
+  "projectFilePath": "D:\\ciber\\ciclo 6\\experiencia v\\DSW_Gas_Mapocho-main\\src\\GasMapocho.Admin\\GasMapocho.Admin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shern\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.21\\microsoft.netcore.app.ref.9.0.21.nupkg.sha512",
+    "C:\\Users\\shern\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.21\\microsoft.windowsdesktop.app.ref.9.0.21.nupkg.sha512",
+    "C:\\Users\\shern\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.21\\microsoft.aspnetcore.app.ref.9.0.21.nupkg.sha512",
+    "C:\\Users\\shern\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.21\\microsoft.netcore.app.host.win-x64.9.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

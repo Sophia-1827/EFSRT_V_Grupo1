@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "OqgW4Yx30uI=",
+  "success": true,
+  "projectFilePath": "D:\\ciber\\ciclo 6\\experiencia v\\DSW_Gas_Mapocho-main\\src\\ClienteGrpc\\ClienteGrpc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shern\\.nuget\\packages\\google.protobuf\\3.35.1\\google.protobuf.3.35.1.nupkg.sha512",
+    "C:\\Users\\shern\\.nuget\\packages\\grpc.core.api\\2.83.0\\grpc.core.api.2.83.0.nupkg.sha512",
+    "C:\\Users\\shern\\.nuget\\packages\\grpc.net.client\\2.83.0\\grpc.net.client.2.83.0.nupkg.sha512",
+    "C:\\Users\\shern\\.nuget\\packages\\grpc.net.common\\2.83.0\\grpc.net.common.2.83.0.nupkg.sha512",
+    "C:\\Users\\shern\\.nuget\\packages\\grpc.tools\\2.83.0\\grpc.tools.2.83.0.nupkg.sha512",
+    "C:\\Users\\shern\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\shern\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\shern\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.21\\microsoft.netcore.app.ref.9.0.21.nupkg.sha512",
+    "C:\\Users\\shern\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.21\\microsoft.windowsdesktop.app.ref.9.0.21.nupkg.sha512",
+    "C:\\Users\\shern\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.21\\microsoft.aspnetcore.app.ref.9.0.21.nupkg.sha512",
+    "C:\\Users\\shern\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.21\\microsoft.netcore.app.host.win-x64.9.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,144 @@
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.runtime.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.endpoints.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.deps.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.dll
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.pdb
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.AssemblyInfoInputs.cache
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.AssemblyInfo.cs
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.csproj.CoreCompileInputs.cache
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.RazorAssemblyInfo.cache
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.RazorAssemblyInfo.cs
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\scopedcss\bundle\GasMapocho.Ui.styles.css
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\qmxdi23nxj-gcs0kgsmn4.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\d2txrm8091-m5gpeb1mbv.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\p0umb5iff4-b8gfmbp8z9.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.GasMapocho.Ui.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.GasMapocho.Ui.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.build.GasMapocho.Ui.props
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GasMapocho.Ui.props
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GasMapocho.Ui.props
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.dll
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\refint\GasMapocho.Ui.dll
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.pdb
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\ref\GasMapocho.Ui.dll
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\bnjccrmp3a-cu2s0tq45w.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\2j6omtmof3-umg1qbq1h4.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.endpoints.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.runtime.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.deps.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.dll
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.pdb
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.AssemblyInfoInputs.cache
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.AssemblyInfo.cs
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.csproj.CoreCompileInputs.cache
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.RazorAssemblyInfo.cache
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.RazorAssemblyInfo.cs
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\scopedcss\bundle\GasMapocho.Ui.styles.css
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\qmxdi23nxj-gcs0kgsmn4.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\d2txrm8091-m5gpeb1mbv.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.build.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.development.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.GasMapocho.Ui.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.GasMapocho.Ui.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.build.GasMapocho.Ui.props
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GasMapocho.Ui.props
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GasMapocho.Ui.props
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.pack.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.dll
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\refint\GasMapocho.Ui.dll
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.pdb
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\ref\GasMapocho.Ui.dll
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\p0umb5iff4-zoh6ik0e4g.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.sourcelink.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\2j6omtmof3-tyswwhqe0w.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\bnjccrmp3a-id0fwlsy8w.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.runtime.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.endpoints.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.deps.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.dll
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.pdb
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.GeneratedMSBuildEditorConfig.editorconfig
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.AssemblyInfoInputs.cache
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.AssemblyInfo.cs
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.csproj.CoreCompileInputs.cache
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.RazorAssemblyInfo.cache
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.RazorAssemblyInfo.cs
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.sourcelink.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\scopedcss\bundle\GasMapocho.Ui.styles.css
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\f5lc9inn42-{0}-69iy767zim-69iy767zim.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\rr1ufi7vmw-{0}-gzyr29tf7x-gzyr29tf7x.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\a1bktqfi5h-{0}-q3bczpqhdy-q3bczpqhdy.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.build.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.development.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\swae.build.ex.cache
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.GasMapocho.Ui.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.GasMapocho.Ui.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.build.GasMapocho.Ui.props
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GasMapocho.Ui.props
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GasMapocho.Ui.props
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.pack.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.dll
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\refint\GasMapocho.Ui.dll
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.pdb
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\ref\GasMapocho.Ui.dll
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\6ewlikirdk-{0}-erv4xj2djw-erv4xj2djw.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\jgw0ahiiel-{0}-pxa7kjx4r7-pxa7kjx4r7.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.runtime.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.endpoints.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.deps.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.dll
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\bin\Debug\net9.0\GasMapocho.Ui.pdb
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.GeneratedMSBuildEditorConfig.editorconfig
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.AssemblyInfoInputs.cache
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.AssemblyInfo.cs
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.csproj.CoreCompileInputs.cache
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.RazorAssemblyInfo.cache
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.RazorAssemblyInfo.cs
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\scopedcss\bundle\GasMapocho.Ui.styles.css
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\6ewlikirdk-{0}-erv4xj2djw-erv4xj2djw.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\jgw0ahiiel-{0}-pxa7kjx4r7-pxa7kjx4r7.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\f5lc9inn42-{0}-tyswwhqe0w-tyswwhqe0w.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\rr1ufi7vmw-{0}-m5gpeb1mbv-m5gpeb1mbv.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\compressed\a1bktqfi5h-{0}-zoh6ik0e4g-zoh6ik0e4g.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.build.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.development.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\swae.build.ex.cache
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.GasMapocho.Ui.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.GasMapocho.Ui.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.build.GasMapocho.Ui.props
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GasMapocho.Ui.props
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GasMapocho.Ui.props
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\staticwebassets.pack.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.dll
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\refint\GasMapocho.Ui.dll
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\GasMapocho.Ui.pdb
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Ui\obj\Debug\net9.0\ref\GasMapocho.Ui.dll

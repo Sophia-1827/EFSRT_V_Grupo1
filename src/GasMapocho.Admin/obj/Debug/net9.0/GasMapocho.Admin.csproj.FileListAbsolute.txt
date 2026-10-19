@@ -1,0 +1,404 @@
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.runtime.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.endpoints.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\bin\Debug\net9.0\appsettings.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.staticwebassets.runtime.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.staticwebassets.endpoints.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.exe
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.deps.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.runtimeconfig.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.dll
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.pdb
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.dll
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.pdb
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.csproj.AssemblyReference.cache
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.AssemblyInfoInputs.cache
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.AssemblyInfo.cs
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.csproj.CoreCompileInputs.cache
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.RazorAssemblyInfo.cache
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.RazorAssemblyInfo.cs
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\scopedcss\bundle\GasMapocho.Admin.styles.css
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\n9kv5ohx7a-oe7xpj7wtq.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\v37x4n5f7k-61n19gt1b8.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\w4e6nexoeb-pras8h65p3.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\1vos0t7cji-xtxxf3hu2r.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ct7uzsifnm-bqjiyaj88i.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\q5j6q3vv18-c2jlpeoesf.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\r28jw7ihyt-erw9l3u2r3.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\onub64ctf3-aexeepp0ev.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\12b3465604-d7shbmvgxk.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\7jl0msgaso-ausgxo2sd3.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\twpqvnacop-k8d9w2qqmf.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\6gorfb2nty-cosvhxvwiu.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\z1z3l2i0oc-ub07r2b239.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\in4g14qtah-fvhpjtyr6v.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\jikco8ysax-b7pk76d08c.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\pbgdmxdvjk-fsbi9cje9m.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\xfzhvk6ew2-rzd6atqjts.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ygnvu4so3w-ee0r1s7dh0.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\v1c1xdsg1t-dxx9fxp4il.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\6uw0tez9er-jd9uben2k1.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\t6g2ajnocp-khv3u5hwcm.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\db6bd7x2v8-r4e9w2rdcm.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\2j4halh8xu-lcd1t2u6c8.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\zho1nd3ce0-c2oey78nd0.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\mhgmljcaec-tdbxkamptv.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\01935udyeu-j5mq2jizvt.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\foiev80w6q-06098lyss8.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\rrzlpk13nr-nvvlpmu67g.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\g1d22y283p-s35ty4nyc5.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\wbh7kv8g4a-pj5nd1wqec.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\5y9f69o25k-46ein0sx1k.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\9e2h6vilzt-v0zj4ognzu.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\sifx54r0gb-37tfw0ft22.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\oxtvqfakio-hrwsygsryq.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\a1t4jnnw8h-pk9g2wxc8p.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\gg9zu8u6al-ft3s53vfgj.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\at3gk7bta9-6cfz1n2cew.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\3x6qu6cp0f-6pdc2jztkx.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ibpwnp8ldo-493y06b0oq.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\z8ek21qlkl-iovd86k7lj.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\irpy6pziaq-vr1egmr9el.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\k45mqk0ez7-kbrnm935zg.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\96rq494hk7-jj8uyg4cgr.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ebwoamm7nx-y7v9cxd14o.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\gmifxfeufy-notf2xhcfb.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\gd33u9tsdj-h1s4sie4z3.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\au3l5aqm8o-63fj8s7r0e.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\k3oh6a7efd-0j3bgjxly4.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\en4ablwh5c-47otxtyo56.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\l6pdk8hlsz-4v8eqarkd7.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\sboc9hjfs0-356vix0kms.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\hm52oen8lv-83jwlth58m.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\b11839qnjn-mrlpezrjn3.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\olojc6vdj8-lzl9nlhx6b.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\svresdqckz-ag7o75518u.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\tygujn94em-x0q3zqp4vz.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\58q676r7ep-0i3buxo5is.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\5v8nxyflp4-o1o13a6vjx.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\sw26qktcve-ttgo8qnofa.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\bvjpt6vtvh-2z0ns9nrw6.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\gqa1tbzwzo-muycvpuwrr.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\8qdcw6mn4r-87fc7y1x7t.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\81jh2ulsin-mlv21k5csn.gz
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapoc.F2A12126.Up2Date
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.dll
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\refint\GasMapocho.Admin.dll
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.pdb
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.genruntimeconfig.cache
+C:\Users\GamingWorld\Desktop\entrega-final_DS_WEB\src\GasMapocho.Admin\obj\Debug\net9.0\ref\GasMapocho.Admin.dll
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.endpoints.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\bin\Debug\net9.0\appsettings.Development.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\bin\Debug\net9.0\appsettings.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.staticwebassets.endpoints.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.runtime.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.staticwebassets.runtime.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.exe
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.deps.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.runtimeconfig.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.dll
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.pdb
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.dll
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.pdb
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.csproj.AssemblyReference.cache
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.AssemblyInfoInputs.cache
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.AssemblyInfo.cs
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.csproj.CoreCompileInputs.cache
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.MvcApplicationPartsAssemblyInfo.cs
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.MvcApplicationPartsAssemblyInfo.cache
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.RazorAssemblyInfo.cache
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.RazorAssemblyInfo.cs
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\scopedcss\bundle\GasMapocho.Admin.styles.css
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\v37x4n5f7k-61n19gt1b8.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\1vos0t7cji-xtxxf3hu2r.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ct7uzsifnm-bqjiyaj88i.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\q5j6q3vv18-c2jlpeoesf.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\r28jw7ihyt-erw9l3u2r3.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\onub64ctf3-aexeepp0ev.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\12b3465604-d7shbmvgxk.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\7jl0msgaso-ausgxo2sd3.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\twpqvnacop-k8d9w2qqmf.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\6gorfb2nty-cosvhxvwiu.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\z1z3l2i0oc-ub07r2b239.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\in4g14qtah-fvhpjtyr6v.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\jikco8ysax-b7pk76d08c.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\pbgdmxdvjk-fsbi9cje9m.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\xfzhvk6ew2-rzd6atqjts.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ygnvu4so3w-ee0r1s7dh0.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\v1c1xdsg1t-dxx9fxp4il.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\6uw0tez9er-jd9uben2k1.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\t6g2ajnocp-khv3u5hwcm.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\db6bd7x2v8-r4e9w2rdcm.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\2j4halh8xu-lcd1t2u6c8.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\zho1nd3ce0-c2oey78nd0.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\mhgmljcaec-tdbxkamptv.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\01935udyeu-j5mq2jizvt.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\foiev80w6q-06098lyss8.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\rrzlpk13nr-nvvlpmu67g.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\g1d22y283p-s35ty4nyc5.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\wbh7kv8g4a-pj5nd1wqec.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\5y9f69o25k-46ein0sx1k.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\9e2h6vilzt-v0zj4ognzu.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\sifx54r0gb-37tfw0ft22.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\oxtvqfakio-hrwsygsryq.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\a1t4jnnw8h-pk9g2wxc8p.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\gg9zu8u6al-ft3s53vfgj.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\at3gk7bta9-6cfz1n2cew.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\3x6qu6cp0f-6pdc2jztkx.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ibpwnp8ldo-493y06b0oq.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\z8ek21qlkl-iovd86k7lj.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\irpy6pziaq-vr1egmr9el.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\k45mqk0ez7-kbrnm935zg.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\96rq494hk7-jj8uyg4cgr.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ebwoamm7nx-y7v9cxd14o.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\gmifxfeufy-notf2xhcfb.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\gd33u9tsdj-h1s4sie4z3.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\au3l5aqm8o-63fj8s7r0e.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\k3oh6a7efd-0j3bgjxly4.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\en4ablwh5c-47otxtyo56.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\l6pdk8hlsz-4v8eqarkd7.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\sboc9hjfs0-356vix0kms.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\hm52oen8lv-83jwlth58m.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\b11839qnjn-mrlpezrjn3.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\olojc6vdj8-lzl9nlhx6b.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\svresdqckz-ag7o75518u.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\tygujn94em-x0q3zqp4vz.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\58q676r7ep-0i3buxo5is.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\5v8nxyflp4-o1o13a6vjx.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\sw26qktcve-ttgo8qnofa.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\bvjpt6vtvh-2z0ns9nrw6.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\gqa1tbzwzo-muycvpuwrr.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\8qdcw6mn4r-87fc7y1x7t.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\81jh2ulsin-mlv21k5csn.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.build.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.development.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapoc.F2A12126.Up2Date
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.dll
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\refint\GasMapocho.Admin.dll
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.pdb
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.genruntimeconfig.cache
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\ref\GasMapocho.Admin.dll
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\w4e6nexoeb-hil2mjwdt4.gz
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.sourcelink.json
+C:\CIBERTEC\QUINTO CICLO\DESARROLLO DE SERVICIOS WEB I\PROYECTOS\Proyecto_final_DSW_I\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\n9kv5ohx7a-pyjhr8uh9l.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\bin\Debug\net9.0\appsettings.Development.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\bin\Debug\net9.0\appsettings.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.runtime.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.endpoints.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.staticwebassets.runtime.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.staticwebassets.endpoints.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.exe
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.deps.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.runtimeconfig.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.dll
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.pdb
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.dll
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.pdb
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.csproj.AssemblyReference.cache
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.GeneratedMSBuildEditorConfig.editorconfig
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.AssemblyInfoInputs.cache
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.AssemblyInfo.cs
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.csproj.CoreCompileInputs.cache
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.MvcApplicationPartsAssemblyInfo.cs
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.MvcApplicationPartsAssemblyInfo.cache
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.RazorAssemblyInfo.cache
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.RazorAssemblyInfo.cs
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.sourcelink.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\scopedcss\bundle\GasMapocho.Admin.styles.css
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\2d3exrxxvs-{0}-eq16m20c16-eq16m20c16.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\7lafxloa1b-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\w0v6cfqfda-{0}-6w4jmy41so-6w4jmy41so.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\4y6u6fw5lv-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ojglaykln5-{0}-t1cqhe9u97-t1cqhe9u97.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\54lkwsgnkz-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\btv12ca134-{0}-sejl45xvog-sejl45xvog.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\6pmy6uche6-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ahiira4114-{0}-xvp3kq03qx-xvp3kq03qx.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\d6riylymp5-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\nsgj1gqzqg-{0}-22vffe00uq-22vffe00uq.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\706kaa9pzw-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\hv797nemdb-{0}-qesaa3a1fm-qesaa3a1fm.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\y5ikg9z7b5-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\1en8s8z7zt-{0}-tmc1g35s3z-tmc1g35s3z.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\1xx0bnlybu-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\3iakthf8ok-{0}-rxsg74s51o-rxsg74s51o.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ulesilvbzj-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\1j29ckl5fu-{0}-q9ht133ko3-q9ht133ko3.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\4h9ifz6pqn-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\kwcfa9weak-{0}-gye83jo8yx-gye83jo8yx.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\rty5kalqaj-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\azn41lbjzl-{0}-wl58j5mj3v-wl58j5mj3v.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\91gdyya85m-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\y6qunlzy06-{0}-d4r6k3f320-d4r6k3f320.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\eaw7xm29mq-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\upga2ic697-{0}-keugtjm085-keugtjm085.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\uz5cqm05oc-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\58mqw02ful-{0}-zub09dkrxp-zub09dkrxp.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\qdb6axq14q-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\65x5psay3d-{0}-43atpzeawx-43atpzeawx.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\muiv8jleb2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\aj4z9cbqqm-{0}-ynyaa8k90p-ynyaa8k90p.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\hd2crh564b-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\sqqutlthjg-{0}-c63t5i9ira-c63t5i9ira.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\56dpqqk1sq-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\4o6jj7np6w-{0}-4094rpi4f9-4094rpi4f9.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\kmg0onvb0w-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ir347ad6sp-{0}-hd3gran6i8-hd3gran6i8.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\tpxx2kx2k6-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\epgcte8e0i-{0}-ltid2c489k-ltid2c489k.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\cgfwm808wo-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\b2eoyaua8g-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\kwvyxvub5x-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\c6qk5qb92y-{0}-u9q1upor1n-u9q1upor1n.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ag0ca3ncfs-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\jlm0srbuw0-{0}-4d85u1mtcx-4d85u1mtcx.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\y35ix5wyzq-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ycvx41lujw-{0}-03hjc8e09r-03hjc8e09r.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\7dwa3tttcq-{0}-48y08845bh-48y08845bh.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\jyvmsp9at6-{0}-356vix0kms-356vix0kms.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\u5zum31cfh-{0}-83jwlth58m-83jwlth58m.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\cjbmv40eu1-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\rb8hninqe5-{0}-worgj0nhwm-worgj0nhwm.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\o6rvrhx8sn-{0}-gk0pw8i4co-gk0pw8i4co.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\q98d93c3bs-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\qb74n6ooz4-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\kb6zt2lgns-{0}-m9qm4tazc0-m9qm4tazc0.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\573ixm2v61-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\j5coag98yd-{0}-jjsuc0puko-jjsuc0puko.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\fe8hxsljbt-{0}-9vr69e8ynj-9vr69e8ynj.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\bn8qdbiff5-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\5tgygglen5-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.build.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.development.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\swae.build.ex.cache
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapoc.F2A12126.Up2Date
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.dll
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\refint\GasMapocho.Admin.dll
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.pdb
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.genruntimeconfig.cache
+D:\ciber\CICLO 5\PROG4695 DESARROLLO DE SERVICIOS WEB I\add\DSW_Gas_Mapocho\src\GasMapocho.Admin\obj\Debug\net9.0\ref\GasMapocho.Admin.dll
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\bin\Debug\net9.0\appsettings.Development.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\bin\Debug\net9.0\appsettings.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.runtime.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.staticwebassets.endpoints.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.staticwebassets.runtime.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.staticwebassets.endpoints.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.exe
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.deps.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.runtimeconfig.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.dll
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Admin.pdb
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.dll
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\bin\Debug\net9.0\GasMapocho.Ui.pdb
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.csproj.AssemblyReference.cache
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.GeneratedMSBuildEditorConfig.editorconfig
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.AssemblyInfoInputs.cache
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.AssemblyInfo.cs
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.csproj.CoreCompileInputs.cache
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.MvcApplicationPartsAssemblyInfo.cs
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.MvcApplicationPartsAssemblyInfo.cache
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.RazorAssemblyInfo.cache
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.RazorAssemblyInfo.cs
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\scopedcss\bundle\GasMapocho.Admin.styles.css
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\2d3exrxxvs-{0}-pyjhr8uh9l-pyjhr8uh9l.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\7lafxloa1b-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\w0v6cfqfda-{0}-hil2mjwdt4-hil2mjwdt4.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\4y6u6fw5lv-{0}-fr7q2aak1r-fr7q2aak1r.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ojglaykln5-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\54lkwsgnkz-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\btv12ca134-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\6pmy6uche6-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ahiira4114-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\d6riylymp5-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\nsgj1gqzqg-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\706kaa9pzw-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\hv797nemdb-{0}-ub07r2b239-ub07r2b239.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\y5ikg9z7b5-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\1en8s8z7zt-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\1xx0bnlybu-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\3iakthf8ok-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ulesilvbzj-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\1j29ckl5fu-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\4h9ifz6pqn-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\kwcfa9weak-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\rty5kalqaj-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\azn41lbjzl-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\91gdyya85m-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\y6qunlzy06-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\eaw7xm29mq-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\upga2ic697-{0}-06098lyss8-06098lyss8.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\uz5cqm05oc-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\58mqw02ful-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\qdb6axq14q-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\65x5psay3d-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\muiv8jleb2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\aj4z9cbqqm-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\hd2crh564b-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\sqqutlthjg-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\56dpqqk1sq-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\4o6jj7np6w-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\kmg0onvb0w-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ir347ad6sp-{0}-493y06b0oq-493y06b0oq.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\tpxx2kx2k6-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\epgcte8e0i-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\cgfwm808wo-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\b2eoyaua8g-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\kwvyxvub5x-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\c6qk5qb92y-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ag0ca3ncfs-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\jlm0srbuw0-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\y35ix5wyzq-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\ycvx41lujw-{0}-47otxtyo56-47otxtyo56.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\7dwa3tttcq-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\jyvmsp9at6-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\u5zum31cfh-{0}-ilo7uva0vt-ilo7uva0vt.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\cjbmv40eu1-{0}-qlccset4i1-qlccset4i1.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\rb8hninqe5-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\o6rvrhx8sn-{0}-ag7o75518u-ag7o75518u.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\q98d93c3bs-{0}-xzw0cte36n-xzw0cte36n.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\qb74n6ooz4-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\kb6zt2lgns-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\573ixm2v61-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\j5coag98yd-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\fe8hxsljbt-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\bn8qdbiff5-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\compressed\5tgygglen5-{0}-jfsiqqwiad-jfsiqqwiad.gz
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.build.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.development.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\swae.build.ex.cache
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapoc.F2A12126.Up2Date
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.dll
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\refint\GasMapocho.Admin.dll
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.pdb
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\GasMapocho.Admin.genruntimeconfig.cache
+D:\ciber\ciclo 6\experiencia v\DSW_Gas_Mapocho-main\src\GasMapocho.Admin\obj\Debug\net9.0\ref\GasMapocho.Admin.dll
